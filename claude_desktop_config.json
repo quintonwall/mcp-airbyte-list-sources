@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "airbyte-status-checker": {
+      "command": "/Users/quintonwall/.local/bin/uv",
+      "args": [
+        "--directory",
+        "/Users/quintonwall/code/airbyte-mcp-list-sources",
+        "run",
+        "airbyte_status_checker.py"
+      ]
+    }
+  }
+}
